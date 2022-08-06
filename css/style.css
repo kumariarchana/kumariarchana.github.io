@@ -437,8 +437,12 @@ h4.agileinfo-head {
 div#skills {
     background: url(../images/bg1.jpg) fixed;
     background-size: cover;
+    color: #d9edf7;
 }
 
+.company {
+    color: #d9edf7;
+}
 
 /*-- Skills bar effects --*/
 
