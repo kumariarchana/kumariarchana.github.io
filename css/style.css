@@ -435,12 +435,11 @@ h4.agileinfo-head {
 }
 
 div#skills {
-    background: #d9edf7;
+    background: url(../images/bg1.jpg) fixed;
+    background-size: cover;
 }
 
 div#experience {
-    background: url(../images/bg1.jpg) fixed;
-    background-size: cover;
     color: #d9edf7;
 }
 
