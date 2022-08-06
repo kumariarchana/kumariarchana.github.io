@@ -538,14 +538,14 @@ div#skills {
     position: relative;
     width: 50px;
     height: 200px;
-    margin: 0 10px;
+    margin: 0 15px;
 }
 
 .vertical-skills li:before {
     content: '';
     background: #03afdd;
     display: block;
-    top: -53px;
+    top: -30px;
     left: 20px;
     width: 10px;
     height: 10px;
@@ -557,7 +557,7 @@ div#skills {
     content: '';
     background: #9a9a9a;
     display: block;
-    top: -43px;
+    top: -24px;
     left: 24px;
     width: 1px;
     height: 93px;
@@ -587,7 +587,7 @@ div#skills {
     left: 0;
     right: 0;
     bottom: 0;
-    color: #fff;
+    color: #4d3e3e;
     z-index: 2;
 }
 
@@ -1312,7 +1312,7 @@ ul.w3-links li a i.fa:hover {
         width: 66%;
     }
     .vertical-skills li {
-        width: 40px;
+        width: 55px;
     }
     .nav-tabs {
         width: 82%;
@@ -1379,7 +1379,7 @@ ul.w3-links li a i.fa:hover {
         width: 86%;
     }
     .vertical-skills li {
-        width: 35px;
+        width: 55px;
     }
     .nav-tabs>li>a{
         padding:.5em 0.7em;
