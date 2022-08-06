@@ -250,7 +250,7 @@
 	</div>
 	<!-- //contact -->
 	<div class="agileits_w3layouts-footer">
-		<p>© 2022. All rights reserved | by Archana Kumari</p>
+		<p>©<span id="year"></span>. All rights reserved | by Archana Kumari</p>
 	</div>
 	<!-- start-smooth-scrolling -->
 	<script type="text/javascript" src="js/move-top.js"></script>
@@ -265,6 +265,7 @@
 				}, 1000);
 			});
 		});
+		$("#year").html(new Date().getFullYear());
 	</script>
 	<!-- //end-smooth-scrolling -->
 	<!-- smooth-scrolling-of-move-up -->
